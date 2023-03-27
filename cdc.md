@@ -67,5 +67,3 @@ Rubriques (espace avec toutes les rubriques)
 * Rubrique 2 (ex: tennis)
 * Rubrique 3 (ex: basketball)
 * Rubrique 4 (ex: handball)
-
-S'abonner (espace abonnement pour recevoir des e-letters).
