@@ -58,7 +58,9 @@ Une version papier
 * Ce qui le/la repousse à venir sur le site : Aucun site n’existe, elle est obligée de se déplacer.
 
 # La structure du site
-Actualités 
+Actualités
+* Les dernères actualités
+* LEs articles les plus lus
 
 Rubriques (espace avec toutes les rubriques)
 * Rubrique 1 (ex: football)
