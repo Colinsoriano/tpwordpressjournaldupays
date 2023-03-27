@@ -57,11 +57,11 @@ Une version papier
 ## Freins
 * Ce qui le/la repousse à venir sur le site : Aucun site n’existe, elle est obligée de se déplacer.
 
-# L'arborescence du site
+# La structure du site
 Accueil 
 * Les dernières actualités
 * Les plus lus
 
-Rubriques
+Rubriques (espace avec toutes les rubriques)
 
-S'abonner
+S'abonner (espace abonnement pour recevoir des e-letters).
