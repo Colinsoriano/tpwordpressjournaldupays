@@ -58,10 +58,12 @@ Une version papier
 * Ce qui le/la repousse à venir sur le site : Aucun site n’existe, elle est obligée de se déplacer.
 
 # La structure du site
-Accueil 
-* Les dernières actualités
-* Les plus lus
+Actualités 
 
 Rubriques (espace avec toutes les rubriques)
+* Rubrique 1 (ex: football)
+* Rubrique 2 (ex: tennis)
+* Rubrique 3 (ex: basketball)
+* Rubrique 4 (ex: handball)
 
 S'abonner (espace abonnement pour recevoir des e-letters).
