@@ -60,7 +60,7 @@ Une version papier
 # La structure du site
 Actualités
 * Les dernères actualités
-* LEs articles les plus lus
+* Les articles les plus lus
 
 Rubriques (espace avec toutes les rubriques)
 * Rubrique 1 (ex: football)
