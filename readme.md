@@ -6,6 +6,7 @@
 
 # La base de données
 
+1. Téléchargez le fichier dans Github
 1. Connectez-vous à http://localhost/ et cliquez sur phpMyAdmin
 1. Cliquez sur l'onglet "Importer" dans le menu supérieur.
 1. Cliquez sur le bouton "Choisir un fichier" pour sélectionner le fichier de la base de données que vous souhaitez importer.
